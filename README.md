@@ -1,4 +1,4 @@
-# KUNAL
+# CBTC
 This is my Data Science internship task from Cipherbyte Technologies. This repositary contain the tasks provided during data science internship.
 i am completed the 3 task.
 1) Iris Flower Classification
